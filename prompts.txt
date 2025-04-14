@@ -1,0 +1,34 @@
+# prompts.txt
+
+Prompt 1:
+"Design a full-stack application to ingest data bidirectionally between ClickHouse and flat files using Spring Boot and React."
+
+Prompt 2:
+"How to implement JWT-based authentication in a Spring Boot application with secure token validation?"
+
+Prompt 3:
+"Generate a Spring Boot REST controller to upload CSV/TSV files, parse them, and ingest data into ClickHouse."
+
+Prompt 4:
+"What is the best way to read schema metadata (columns, types) from a ClickHouse table using JDBC in Java?"
+
+Prompt 5:
+"Build a React component for schema discovery and column selection from a ClickHouse table."
+
+Prompt 6:
+"How to allow downloading a ClickHouse query result as a CSV file from a Spring Boot API?"
+
+Prompt 7:
+"Write an error-handling middleware for Spring Boot that returns meaningful messages for 401, 403, and 500 errors."
+
+Prompt 8:
+"Suggest a secure way to pass and verify JWT tokens between a React frontend and Spring Boot backend."
+
+Prompt 9:
+"How to trigger file download in React from a backend API that returns binary data (CSV export)?"
+
+Prompt 10:
+"Help me write a professional README.md for a Spring Boot + React project that supports JWT, schema discovery, and file ingestion/export."
+
+Prompt 11:
+"What should I include in prompts.txt if I used AI tools like ChatGPT to assist with a full-stack development project?"
